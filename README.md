@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🚀 MERN Stack Developer crafting scalable full-stack apps with React & Node.js — obsessed with performance, clean architecture, and building production-grade systems that actually scale.<br>💡 Currently exploring scalable architectures, AI-powered applications, DevOps fundamentals, and advanced React patterns. I love building real-world projects that solve practical problems while following clean code practices and industry standards.<br>⚡ Tech Stack: JavaScript, React.js, Node.js, Express.js, MongoDB, Redux, TanStack Query, Docker, Git/GitHub, REST APIs, JWT Authentication, LLM, LangChain, LangGraph, AI.<br>🎯 Goal: To grow as a software engineer by building impactful products, contributing to meaningful projects, and continuously improving my problem-solving and system design skills.
 
 
